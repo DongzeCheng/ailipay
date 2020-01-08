@@ -16,6 +16,7 @@ import java.io.IOException;
 public class AlipayConfig {
 	//支付宝小测试gt
 	//dev添加的
+	//更改后提交
 //↓↓↓↓↓↓↓↓↓↓请在这里配置您的基本信息↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 	// 应用ID,您的APPID，收款账号既是您的APPID对应支付宝账号
