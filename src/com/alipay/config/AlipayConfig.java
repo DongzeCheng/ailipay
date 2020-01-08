@@ -14,7 +14,7 @@ import java.io.IOException;
  */
 
 public class AlipayConfig {
-	//支付宝小测试
+	//支付宝小测试gt
 	//dev添加的
 //↓↓↓↓↓↓↓↓↓↓请在这里配置您的基本信息↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
